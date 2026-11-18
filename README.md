@@ -64,10 +64,6 @@ La routine parte da sola quando il telefono si collega all'auto (Bluetooth, una 
 
 <p align="center"><img src="docs/img/passo7.jpg" width="720" alt="Cosa trovi in auto"></p>
 
-## Sicurezza
-
-Video e testi si vedono **solo a vettura ferma**: in marcia continua l'audio.
-
 ## Come si ottiene
 
 Tutto passa dal bot Telegram **[@OnAutoCylBot](https://t.me/OnAutoCylBot)**:
